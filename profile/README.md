@@ -3,10 +3,10 @@
   <img src="https://raw.githubusercontent.com/nhonguista/.github/main/profile/banner.png" alt="Nhonguista Banner" width="100%" />
 </p>
 
-<h1 align="center">A Arte de Vender e Prestar Serviços em Nampula 🇲🇿</h1>
+<h1 align="center">The Art of Selling and Providing Services in Mozambique 🇲🇿</h1>
 
 <p align="center">
-  O <strong>Nhonguista</strong> é a plataforma de descoberta local de Nampula. Conectamos quem precisa de um serviço a quem sabe fazê-lo — mecânicos, designers, canalizadores, carpinteiros e muito mais — direto no WhatsApp, sem burocracia.
+  <strong>Nhonguista</strong> is the local discovery platform in Mozambique. We connect those who need a service with those who know how to do it — mechanics, designers, plumbers, carpenters, and much more — directly on WhatsApp, with no bureaucracy.
 </p>
 
 <p align="center">
@@ -15,35 +15,35 @@
 
 ---
 
-## 🚀 O que fazemos
+## 🚀 What We Do
 
-O Nhonguista é um diretório inteligente que liga prestadores de serviços locais a clientes em Nampula. Sem intermediários complicados, sem plataformas ocidentais que não se adaptam à nossa realidade — só um clique de distância entre o problema e a solução. Construído sobre uma infraestrutura tecnológica robusta e um modelo Open Core.
+Nhonguista is a smart directory that connects local service providers to clients in Mozambique. No complicated middlemen, no western platforms that do not adapt to our reality — just one click away from the problem to the solution. Built on robust technological infrastructure and an Open Core model.
 
-## 📦 Os nossos repositórios públicos
+## 📦 Our Public Repositories
 
-Sinta-se livre para explorar, usar e contribuir para as ferramentas da nossa plataforma:
+Feel free to explore, use, and contribute to the tools of our platform:
 
-| Repositório | Descrição |
+| Repository | Description |
 |---|---|
-| 🎨 [`nhonguista/ui`](https://github.com/nhonguista/ui) | Design system e componentes de interface (React/Tailwind) |
-| 🔌 [`nhonguista/sdk`](https://github.com/nhonguista/sdk) | Cliente oficial TypeScript para integrações de terceiros |
-| 🌍 [`nhonguista/landing`](https://github.com/nhonguista/landing) | Site institucional e portal público |
-| 🛠️ [`moz-utils`](https://github.com/iradoweck/moz-utils) | Utilitários focados no contexto Moçambicano (BI, M-Pesa, etc.) |
+| 🎨 [`nhonguista/ui`](https://github.com/nhonguista/ui) | Design system and UI components (React/Tailwind) |
+| 🔌 [`nhonguista/sdk`](https://github.com/nhonguista/sdk) | Official TypeScript client for third-party integrations |
+| 🌍 [`nhonguista/landing`](https://github.com/nhonguista/landing) | Institutional website and public portal |
+| 🛠️ [`moz-utils`](https://github.com/iradoweck/moz-utils) | Utilities focused on the Mozambican context (BI, M-Pesa, etc.) |
 
-*(Nota: O nosso motor backend `nhonguista/core` é privado/Closed Source para garantir a integridade da plataforma).*
+*(Note: Our backend engine `nhonguista/core` is private/Closed Source to ensure platform integrity).*
 
-## 🤝 Contribuir
+## 🤝 Contributing
 
-Somos uma equipa em crescimento, com uma comunidade de contribuidores que ajuda a moldar o produto. Se és de Nampula (ou não) e queres contribuir, explora os repositórios acima — *issues* marcadas como `good first issue` são um bom ponto de partida.
+We are a growing team with a community of contributors helping to shape the product. If you want to contribute, explore the repositories above — *issues* labeled as `good first issue` are a great starting point.
 
-1. **Comunicação e Issues**: Português.
-2. **Código e Commits**: Inglês.
+1. **Communication and Issues**: Portuguese.
+2. **Code and Commits**: English.
 
-Recomendamos a leitura do nosso [CODE_OF_CONDUCT.md](https://github.com/nhonguista/.github/blob/main/CODE_OF_CONDUCT.md) e [CONTRIBUTING.md](https://github.com/nhonguista/.github/blob/main/CONTRIBUTING.md).
+We recommend reading our [CODE_OF_CONDUCT.md](https://github.com/nhonguista/.github/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](https://github.com/nhonguista/.github/blob/main/CONTRIBUTING.md).
 
 ---
 
-📍 **Nampula, Moçambique**
+📍 **Mozambique**
 
 <br/>
-<p align="center"><i>&copy; 2026 Nhonguista. Construído com dedicação pela ZEDECK'S IT e a Comunidade Open Source.</i></p>
+<p align="center"><i>&copy; 2026 Nhonguista. Built with dedication by ZEDECK'S IT and the Open Source Community.</i></p>
