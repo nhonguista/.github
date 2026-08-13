@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nhonguista/.github/main/profile/banner.png" alt="Nhonguista Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/nhonguista/.github/main/profile/logo.png" alt="Nhonguista Banner" width="100%" />
 </p>
 
 <h1 align="center">The Art of Selling and Providing Services in Mozambique 🇲🇿</h1>
