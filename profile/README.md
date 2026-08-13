@@ -6,46 +6,44 @@
 <h1 align="center">A Arte de Vender e Prestar Serviços em Nampula 🇲🇿</h1>
 
 <p align="center">
-  O <strong>Nhonguista</strong> é o ecossistema tecnológico líder para o comércio local e prestação de serviços em Nampula. Promovemos a economia local construindo infraestruturas robustas, Open Core e desenhadas para a nossa realidade.
+  O <strong>Nhonguista</strong> é a plataforma de descoberta local de Nampula. Conectamos quem precisa de um serviço a quem sabe fazê-lo — mecânicos, designers, canalizadores, carpinteiros e muito mais — direto no WhatsApp, sem burocracia.
+</p>
+
+<p align="center">
+  🔗 <a href="https://nhonguista.com">nhonguista.com</a> &nbsp;|&nbsp; 📧 <a href="mailto:info@nhonguista.com">info@nhonguista.com</a>
 </p>
 
 ---
 
-## 🏗️ O Nosso Ecossistema (Open Core)
+## 🚀 O que fazemos
 
-A nossa arquitetura baseia-se num modelo de governação Open Core, separando ferramentas comunitárias (Open Source) do motor principal de negócio:
+O Nhonguista é um diretório inteligente que liga prestadores de serviços locais a clientes em Nampula. Sem intermediários complicados, sem plataformas ocidentais que não se adaptam à nossa realidade — só um clique de distância entre o problema e a solução. Construído sobre uma infraestrutura tecnológica robusta e um modelo Open Core.
 
-### 📦 Módulos Open Source (Nhonguista-Owned)
-Sinta-se livre para explorar, usar e contribuir para estas ferramentas:
-- 🎨 [**nhonguista/ui**](https://github.com/nhonguista/ui): O nosso Design System e Biblioteca de Componentes construído em React, focado em acessibilidade e estética de alto nível.
-- 🔌 [**nhonguista/sdk**](https://github.com/nhonguista/sdk): Cliente oficial TypeScript para interagir com a nossa API com total type-safety.
-- 🌍 [**nhonguista/landing**](https://github.com/nhonguista/landing): A face pública e portal de entrada da nossa plataforma.
+## 📦 Os nossos repositórios públicos
 
-### ⚙️ Utilitários Autônomos (Upstream)
-- 🛠️ [**moz-utils**](https://github.com/iradoweck/moz-utils): Coleção de utilitários e lógicas focadas no contexto Moçambicano (Validação de BI, NUIT, formatadores de contacto M-Pesa, E-Mola, etc).
+Sinta-se livre para explorar, usar e contribuir para as ferramentas da nossa plataforma:
 
-### 🧠 O Motor
-- 🔐 **nhonguista/core** *(Closed Source)*: O backend de alta performance, gestão de transações, catálogos e inteligência do Nhonguista. 
+| Repositório | Descrição |
+|---|---|
+| 🎨 [`nhonguista/ui`](https://github.com/nhonguista/ui) | Design system e componentes de interface (React/Tailwind) |
+| 🔌 [`nhonguista/sdk`](https://github.com/nhonguista/sdk) | Cliente oficial TypeScript para integrações de terceiros |
+| 🌍 [`nhonguista/landing`](https://github.com/nhonguista/landing) | Site institucional e portal público |
+| 🛠️ [`moz-utils`](https://github.com/iradoweck/moz-utils) | Utilitários focados no contexto Moçambicano (BI, M-Pesa, etc.) |
 
----
+*(Nota: O nosso motor backend `nhonguista/core` é privado/Closed Source para garantir a integridade da plataforma).*
 
-## 🤝 Como Contribuir?
+## 🤝 Contribuir
 
-Adoramos contribuições da comunidade! Para garantir a qualidade e organização, adotamos algumas regras dogmáticas:
-1. **Comunicação e Issues**: Todo o texto, debates e documentação devem ser em **Português**.
-2. **Código e Commits**: Todo o código-fonte, nomes de variáveis, PRs e commits são estritamente em **Inglês**.
-3. **Branching e Pull Requests**: Trabalhamos sempre focados na estabilidade. PRs externos devem ser feitos contra as branches apropriadas de desenvolvimento.
-4. **Governança**: O Nhonguista mantém a palavra final sobre o que entra nos repositórios proprietários (UI, SDK, Landing), assegurando consistência.
+Somos uma equipa em crescimento, com uma comunidade de contribuidores que ajuda a moldar o produto. Se és de Nampula (ou não) e queres contribuir, explora os repositórios acima — *issues* marcadas como `good first issue` são um bom ponto de partida.
+
+1. **Comunicação e Issues**: Português.
+2. **Código e Commits**: Inglês.
 
 Recomendamos a leitura do nosso [CODE_OF_CONDUCT.md](https://github.com/nhonguista/.github/blob/main/CODE_OF_CONDUCT.md) e [CONTRIBUTING.md](https://github.com/nhonguista/.github/blob/main/CONTRIBUTING.md).
 
 ---
 
-## 📫 Conecte-se Connosco
-
-- 🌐 Website: [nhonguista.com](https://nhonguista.com)
-- 📧 Suporte e Negócios: hello@nhonguista.com
-- 📍 Baseado em Nampula, Moçambique.
+📍 **Nampula, Moçambique**
 
 <br/>
-<p align="center"><i>Feito com ❤️ pela equipa Nhonguista.</i></p>
+<p align="center"><i>&copy; 2026 Nhonguista. Construído com dedicação pela ZEDECK'S IT e a Comunidade Open Source.</i></p>
