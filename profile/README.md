@@ -1,9 +1,5 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nhonguista/.github/main/profile/logo.png" alt="Nhonguista Banner" width="100%" />
-</p>
-
-<h1 align="center">The Art of Selling and Providing Services in Mozambique 🇲🇿</h1>
+<h1 align="center">The Art of Selling and Providing Services in Mozambique</h1>
 
 <p align="center">
   <strong>Nhonguista</strong> is the local discovery platform in Mozambique. We connect those who need a service with those who know how to do it — mechanics, designers, plumbers, carpenters, and much more — directly on WhatsApp, with no bureaucracy.
@@ -30,7 +26,7 @@ Feel free to explore, use, and contribute to the tools of our platform:
 | 🌍 [`nhonguista/landing`](https://github.com/nhonguista/landing) | Institutional website and public portal |
 | 🛠️ [`moz-utils`](https://github.com/iradoweck/moz-utils) | Utilities focused on the Mozambican context (BI, M-Pesa, etc.) |
 
-*(Note: Our backend engine `nhonguista/core` is private/Closed Source to ensure platform integrity).*
+*(Note: Our backend engine is private/Closed Source to ensure platform integrity).*
 
 ## 🤝 Contributing
 
